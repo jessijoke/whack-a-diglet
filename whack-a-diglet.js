@@ -196,7 +196,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/whack_a_diglet_atlas_1.png?1618179773562", id:"whack_a_diglet_atlas_1"}
+		{src:"images/whack_a_diglet_atlas_1.png?1618180108164", id:"whack_a_diglet_atlas_1"}
 	],
 	preloads: []
 };
